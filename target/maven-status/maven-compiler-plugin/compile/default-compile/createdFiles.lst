@@ -1,0 +1,6 @@
+com\springmvc\hibernate\service\MakananServiceImpl.class
+com\springmvc\hibernate\repository\MakananRepositoryImpl.class
+com\springmvc\hibernate\repository\MakananRepository.class
+com\springmvc\hibernate\service\MakananService.class
+com\springmvc\hibernate\controller\MakananController.class
+com\springmvc\hibernate\domain\Makanan.class
